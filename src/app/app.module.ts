@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { DeathSquareComponent } from './death-square/death-square.component';
 import { TurretComponent } from './turret/turret.component';
 import { LaserCannonComponent } from './laser-cannon/laser-cannon.component';
+import { TieFigtherComponent } from './tie-figther/tie-figther.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { LaserCannonComponent } from './laser-cannon/laser-cannon.component';
     AppComponent,
     DeathSquareComponent,
     TurretComponent,
-    LaserCannonComponent
+    LaserCannonComponent,
+    TieFigtherComponent
   ],
   imports: [
     BrowserModule

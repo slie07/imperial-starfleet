@@ -1,0 +1,13 @@
+
+.tieFighterContainer {
+    background: black; 
+    text-align: center;
+}
+.tie-fighter {
+    border: 3px solid green;
+    padding: 5px;
+    border-radius: 10%;
+    margin: 10px;
+    background: red;
+ 
+}
