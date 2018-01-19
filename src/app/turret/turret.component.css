@@ -1,0 +1,15 @@
+/*.left {
+  left: 0px;
+  top: 50%;
+}
+
+.right {
+  right: 0px;
+  top: 50%;
+}*/
+
+
+.turret {
+    height: 150px;
+    width: 150px;
+}
